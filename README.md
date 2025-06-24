@@ -7,8 +7,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanPletsch&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/brayan-pletsch" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<div align="center"> 
+<a href="https://www.brayan.blog" target="_blank"><img src="https://img.shields.io/badge/-WebSite-8F3E9C?style=for-the-badge&labelColor=14141B&color=8F3E9C"/></a>
+<a href="https://www.linkedin.com/in/brayan-pletsch" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=0A66C2&color=0A66C2"/></a>
+<a href="https://www.instagram.com/brayan_pletsch" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=E4405F&color=E4405F"/></a>
 </div>
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrayanPletsch&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
