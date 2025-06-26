@@ -18,6 +18,23 @@
   <img src="https://github-profile-trophy.vercel.app/?username=BrayanPletsch&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+```javascript
+import SoftwareDeveloper from "BrayanPletsch";
+import { Languages, Databases, Frameworks } from "BrayanPletsch/skills";
+
+class Bio extends SoftwareDeveloper {
+  name = "Brayan Aragão Pletsch";
+  title = "Backend Developer";
+  location = "Brasília, Brazil";
+}
+
+class Skills extends SoftwareDeveloper {
+  languages = ["Python", "Node.js", "JavaScript", "Java" ...Languages];
+  databases = ["MySQL", "PostgreSQL", "MongoDB" ...Databases];
+  frameworks = ["Flask", "FastAPI", "Express.js", "Swagger", "React" ...Frameworks];
+}
+```
+
 ### Habilidades Principais:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB\&labelColor=0D1117)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge\&logo=node.js\&logoColor=339933\&labelColor=0D1117)
