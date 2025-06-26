@@ -23,27 +23,27 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge\&logo=node.js\&logoColor=339933\&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E\&labelColor=0D1117)
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge\&logo=docker\&logoColor=0DB7ED\&labelColor=0D1117)
-![GitLab](https://img.shields.io/badge/-GitLab-0D1117?style=for-the-badge\&logo=gitlab\&logoColor=FC6D26\&labelColor=0D1117)
 
-![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge\&logo=dbeaver\&logoColor=white\&labelColor=0D1117)
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge\&logo=mysql\&logoColor=00758F\&labelColor=0D1117)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge\&logo=postgresql\&logoColor=336791\&labelColor=0D1117)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge\&logo=mongodb\&logoColor=47A248\&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
+![GitLab](https://img.shields.io/badge/-GitLab-0D1117?style=for-the-badge\&logo=gitlab\&logoColor=FC6D26\&labelColor=0D1117)
 
 ### Ferramentas:
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge\&logo=linux\&logoColor=white\&labelColor=0D1117)
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge\&logo=postman\&logoColor=FF6C37\&labelColor=0D1117)
+![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge\&logo=dbeaver\&logoColor=white\&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F1502F\&labelColor=0D1117)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge\&logo=pycharm\&logoColor=white\&labelColor=0D1117)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?style=for-the-badge\&logo=intellijidea\&logoColor=white\&labelColor=0D1117)
 
-### Outras Tecnologias:
+### Frameworks e Bibliotecas:
 ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge\&logo=flask\&logoColor=white\&labelColor=0D1117)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0D1117&color=0D1117)
 ![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge\&logo=express\&logoColor=white\&labelColor=0D1117)
 ![Swagger](https://img.shields.io/badge/-Swagger-0D1117?style=for-the-badge\&logo=swagger\&logoColor=green\&labelColor=0D1117)
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge\&logo=react\&logoColor=1572B6\&labelColor=0D1117)
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge\&logo=php\&logoColor=777BB4\&labelColor=0D1117)
   
 ### Estudando no momento:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB\&labelColor=0D1117)
